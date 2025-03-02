@@ -1,3 +1,4 @@
+![logo](https://github.com/Smchavan491/Smchavan491/blob/main/banner1.webp)
 <h1 align="center">Hi 👋, I'm Samrudhi Chavan</h1>
 <h3 align="center">A passionate full-stack developer also enthusiast with data analytics</h3>
 
