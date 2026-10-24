@@ -74,6 +74,15 @@ I'm a full-stack developer who enjoys building reliable backends and clean, resp
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=B026FF,00B8D4,FF2E97&height=2" width="100%" alt="divider" />
 
+## ✦ Latest Gists
+
+<!-- GISTS:START -->
+<!-- GISTS:END -->
+
+[**View all gists →**](https://gist.github.com/Smchavan491)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=B026FF,00B8D4,FF2E97&height=2" width="100%" alt="divider" />
+
 <div align="center">
 
 *Thanks for stopping by. Let's build something great together.*
